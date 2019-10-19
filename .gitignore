@@ -1,0 +1,3 @@
+/notebooks/*.tsv
+/amazon-fine-food-reviews
+*.csv
